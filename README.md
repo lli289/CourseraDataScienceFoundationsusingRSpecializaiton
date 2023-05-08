@@ -22,5 +22,9 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 * [Week 4 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%202/Week4.pdf)
 
 ### Course 3: Getting and Cleaning Data
+* [Week 1 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%203/Week1.pdf)
+* [Week 2 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%203/Week2.pdf)
+* [Week 3 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%203/Week3.pdf)
+* [Week 4 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%203/Week4.pdf)
 
 ## For Swirl, see this [link](https://lli289.github.io/posts/2023/05/blog-post-2/)
