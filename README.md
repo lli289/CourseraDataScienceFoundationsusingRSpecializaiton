@@ -29,4 +29,6 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 
 ### Course 4: Exploratory Data Analysis
 
+### Course 5: Reproducible Research
+
 ## For Swirl, see this [link](https://lli289.github.io/posts/2023/05/blog-post-2/)
