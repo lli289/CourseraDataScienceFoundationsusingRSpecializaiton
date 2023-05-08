@@ -28,6 +28,10 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 * [Week 4 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%203/Week4.pdf)
 
 ### Course 4: Exploratory Data Analysis
+* [Week 1 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%204/Week1.pdf)
+* [Week 2 Quiz](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Quiz%20Bank/Course%204/Week2.pdf)
+* Week 3 No Quiz
+* Week 4 No Quiz
 
 ### Course 5: Reproducible Research
 
