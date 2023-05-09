@@ -43,7 +43,7 @@ complete <- function(directory, id = 1:332){
 }
 ```
 
-#### Function 3: corr()
+#### Function 3: corr
 
 ```{r}
 corr <- function(directory, threshold = 0){
