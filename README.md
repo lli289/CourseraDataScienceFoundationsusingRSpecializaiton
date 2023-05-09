@@ -40,6 +40,11 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 * Week 4 No Quiz
 
 ## Peer-graded Assignment Bank
-Course 1: [Peer-graded Assignment: Assemble your toolbox](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Assemble%20your%20toolbox.md)
+Course 1: 
+* [Peer-graded Assignment: Assemble your toolbox](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Assemble%20your%20toolbox.md)
+
+Course 2: 
+* [Programming Assignment 1 INSTRUCTIONS: Air Pollution](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Air%20Pollution.md)
+* [Peer-graded Assignment: Programming Assignment 2: Lexical Scoping]
 
 ## For Swirl, see this [link](https://lli289.github.io/posts/2023/05/blog-post-2/)
