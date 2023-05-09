@@ -14,7 +14,7 @@
 * Check 2: your repo contains at least one commit. 
 * Check 3: submit a valid SHA-1 hash identifier corresponding to the commit. 
 
-### Functions:
+## Functions:
 
 #### Function 1: makeCacheMatrix
 
