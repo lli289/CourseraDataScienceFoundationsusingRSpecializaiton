@@ -12,7 +12,7 @@
 ## To pass the assignment, you need to do the following:
 * Check 1: copy and paste the link to your completed R code or repo. 
 * Check 2: your repo contains at least one commit. 
-* Check 3: Submit a valid SHA-1 hash identifier corresponding to the commit. 
+* Check 3: submit a valid SHA-1 hash identifier corresponding to the commit. 
 
 ### Functions:
 
