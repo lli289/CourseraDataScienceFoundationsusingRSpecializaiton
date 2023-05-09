@@ -1,8 +1,10 @@
 # Peer-graded Assignment: Programming Assignment 2: Lexical Scoping
 
 ## For this assignment, you need to do the following:
-* Write makeCacheMatrix. 
-* Write cacheSolve.
+* Write function makeCacheMatrix. 
+  + This function creates a special matrix object that can cache its inverse.
+* Write function cacheSolve.
+  + This function computes the inverse of the special matrix returned by makeCacheMatrix. If the inverse has already been calculated (and the matrix has not changed), then the cachesolve should retrieve the inverse from the cache.
 * Fork the [ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) repo.
 * Commit and push.
 * Copy and paste the link to the repo.
