@@ -45,7 +45,8 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 
 ### Course 2: R Programming
 * [Programming Assignment 1 INSTRUCTIONS: Air Pollution](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Air%20Pollution.md)
-* [Peer-graded Assignment: Programming Assignment 2: Lexical Scoping]
+* [Peer-graded Assignment: Programming Assignment 2: Lexical Scoping](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Lexical%20Scoping.md)
+* [Programming Assignment 3 INSTRUCTIONS: Hospital Quality]
 
 ### Course 3: Getting and Cleaning Data
 
