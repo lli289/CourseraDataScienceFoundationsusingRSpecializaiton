@@ -54,7 +54,7 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 * [Peer-graded Assignment: Getting and Cleaning Data Course Project](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Getting%20and%20Cleaning%20Data%20Course%20Project.md)
 
 ### Course 4: Exploratory Data Analysis
-* [Peer-graded Assignment: Course Project 1]
+* [Peer-graded Assignment: Course Project 1](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Course%20Project%201.md)
 * [Peer-graded Assignment: Course Project 2]
 
 ### Course 5: Reproducible Research
