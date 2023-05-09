@@ -8,6 +8,35 @@
 
 ## You will use best(), rankhospital(), and rankall() to complete Programming Assignment 3: Quiz
 
-### Function 1: best
+#### Function 1: best
 
-### Function 2: rankhospital
+```{r}
+library(dplyr)
+best <- function(state, outcome){
+  data <- data.table::fread("outcome-of-care-measures.csv")
+  outcome <- tolower(outcome)
+  chosen_state <- state 
+  if (!chosen_state %in% unique(data[["State"]])) {
+    stop("Invalid state")
+  }
+  if (!outcome %in% c("heart attack", "heart failure", "pneumonia")) {
+    stop("Invalid outcome")
+  }
+  data <- data %>% 
+    rename_with(~ tolower(gsub("^Hospital 30-Day Death \\(Mortality\\) Rates from ", "", .x)))
+  data <- data[which(data$state == chosen_state),]
+  data <- data%>%
+    mutate(rate = suppressWarnings(as.numeric(get(outcome)))) %>%
+    clean_names() %>%
+    select(hospital_name, state, rate)
+  data <- na.omit(data)
+  data <- data %>%
+    arrange(rate, hospital_name) %>%
+    mutate(rank = row_number())  
+  return(unlist(data[1,1]))
+}
+```
+
+#### Function 2: rankhospital
+
+#### Function 3: rankall
