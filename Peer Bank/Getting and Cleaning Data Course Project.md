@@ -17,7 +17,7 @@
   + README.md
   + CodeBook.md
 
-## Functions:
+## R code:
 
 #### run_analysis.R
 ```{r}
