@@ -19,10 +19,10 @@
   + Make a panel plot containing a time series plot (type = "l") of the 5 minute interval (x-axis) and the average number of stps taken, averaged across all weekdays or weekend days (y-axis).
 
 ## To pass the assignment, you need to do the following:
-* Copy and paste the link to your completed repo and make sure it contains:
+* Check 1: copy and paste the link to your completed repo and make sure it contains:
   + PA1_template.Rmd
   + PA1_template.html 
-* Submit SHA-1.
+* Check 2: submit SHA-1.
 
 ## R code:
 
