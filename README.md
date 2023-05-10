@@ -1,7 +1,7 @@
 # CourseraDataScienceFoundationusingRSpecializaiton by John Hopkins University
 Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins University
 
-** Repo update status: still updating
+** Repo update status: completed
 
 ## My Notes Bank
 * [Course1 Lecure Notes Week 1 to Week 4](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/My%20Notes%20Bank/Course1Notes.pdf)
@@ -59,6 +59,6 @@ Data Science: Foundations using R Specialization Course 1 to 5 by John Hopkins U
 
 ### Course 5: Reproducible Research
 * [Peer-graded Assignment: Course Project 1](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Course%205%20Project%201.md)
-* [Peer-graded Assignment: Course Project 2]
+* [Peer-graded Assignment: Course Project 2](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/Course%205%20Project%202.md)
 
 ## For Swirl, see this [link](https://lli289.github.io/posts/2023/05/blog-post-2/)
