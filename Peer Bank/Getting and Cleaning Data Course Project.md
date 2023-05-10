@@ -13,7 +13,7 @@
 * Check 2: copy and paste the link to your completed R code or repo that contains:
   + run_analysis.R
   + original data (optional)
-  + tidy
+  + [tidy](https://github.com/lli289/CourseraDataScienceFoundationsusingRSpecializaiton/blob/main/Peer%20Bank/tidy.txt)
   + README.md
   + CodeBook.md
 
